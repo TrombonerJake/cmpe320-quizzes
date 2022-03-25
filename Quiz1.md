@@ -1,3 +1,4 @@
+[[Return home]](https://trombonerjake.github.io/cmpe320-quizzes/)
 # Quiz 1: Syllabus Quiz
 
 ### Question 1  
