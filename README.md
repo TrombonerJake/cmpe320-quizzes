@@ -1,3 +1,3 @@
 ## Hello, this is a page.
 ---  
-**Quiz 8: ** [a relative link](Quiz8.md)
+[**Quiz 8**](Quiz8.md)
