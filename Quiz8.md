@@ -71,6 +71,8 @@
    If data race did not happen, what is the expected value of the "variable"? ________
    What is the actual value of the "variable"? ________
 	
+   ---  
+   
    **Blank #1:** `2`    
    **Blank #2:** `5`    
 
@@ -123,6 +125,8 @@
    If data race did not happen, what is the expectd value of the "variable"? ________  
    What is the actual value of the "variable"? ________  
    
+   ---  
+   
    **Blank #1:** `2`  
    **Blank #2:** `4`  
 
@@ -137,6 +141,8 @@ TestAndSet(a, 2);
    What is the return value of this TestAndSet call? ________  
    What is the value of *a after this TestAndSet call? ________  
    
+   ---  
+   
    **Blank #1:** `3`  
    **Blank #2:** `2`  
 
@@ -150,6 +156,8 @@ CompareAndSwap(a, 2, 1);
 ```
    What is the return value of this CompareAndSwamp? ________  
    What is the value of the *a after this CompareAndSwap operation? ________  
+   
+   ---  
    
    **Blank #1:** `3`  
    **Blank #2:** `3`  
