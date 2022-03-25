@@ -1,4 +1,4 @@
-[[Return home]](https://trombonerjake.github.io/cmpe320-quizzes/)
+[[Return home]](README.md)
 # Quiz 8: Threads and Concurrency
 
 ### Question 1  
